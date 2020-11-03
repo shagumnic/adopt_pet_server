@@ -12,7 +12,7 @@ const results = { results : [
     {"breed": "bulldog",
     "name":"Johnny",
      "age": 5, 
-    "location" : "10000", 
+    "location" : "20000", 
     "picture": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11234019/Bulldog-standing-in-the-grass.jpg",
     "description": "This is the best bulldog in the world. Loyal, Friendly, and Crazy, he will be the greatest partner you could ever ask for."},
     {"breed": "poodle",
