@@ -1,6 +1,6 @@
 ﻿Simple server made in Express to feed sample pet data to the front end.
 
-##Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
